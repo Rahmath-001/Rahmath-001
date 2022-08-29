@@ -1,4 +1,4 @@
-### Hi there 👋
+### 
 
 <!--
 **Rahmath-001/Rahmath-001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,33 +14,33 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Abdullah</h1>
-<h3 align="center">A full stack Creative Developer from India, Hyderabad.</h3>
+<h1 align="center">Hi 👋, I'm Rahmathullah</h1>
+<h3 align="center">A full stack Developer from India, Hyderabad.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Abdul535&label=Profile%20views&color=0e75b6&style=flat" alt="Abdul535" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahmath-001&label=Profile%20views&color=0e75b6&style=flat" alt="Rahmath--001" /> </p>
 
-<!-- <a  href="https://app.daily.dev/abdul_047"><img align="right" src="https://api.daily.dev/devcards/4fe4a49ee1e44833869dbd515c349bde.png?r=qr3" width=auto height="370" alt="Abdullah's Dev Card"/></a> -->
+<!-- <a  href="https://app.daily.dev/Rahmath-001"><img align="right" src="https://api.daily.dev/devcards/4fe4a49ee1e44833869dbd515c349bde.png?r=qr3" width=auto height="370" alt="Abdullah's Dev Card"/></a> -->
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abdul535" alt="Abdul535" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rahmath-001" alt="Rahmath-001" /></a> </p>
 
 
-<p align="left"> <a href="https://twitter.com/047_Abdul" target="blank"><img src="https://img.shields.io/twitter/follow/047_Abdul?logo=twitter&style=for-the-badge" alt="047_Abdul" /></a> </p>
-
+<!-- <p align="left"> <a href="https://twitter.com/047_Abdul" target="blank"><img src="https://img.shields.io/twitter/follow/047_Abdul?logo=twitter&style=for-the-badge" alt="047_Abdul" /></a> </p>
+ -->
 
 
 - 🌱 I’m currently learning **React, Threejs**
 
 - 💬 Ask me about **React, UI/UX, Nodejs, Express, JavaScript, CSS**
 
-- 📫 How to reach me **syedabdullah535@gmail.com**
+- 📫 How to reach me **rehamathullah7@gmail.com**
 
-- ⚡ Fun fact **I love JavaScript**
+- ⚡ Fun fact **I am a BOXER and Soccer player**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://dev.to/Abdul535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Abdul535" height="30" width="40" /></a> -->
   
-<a href="https://twitter.com/047_Abdul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="047_Abdul" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/047_Abdul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="047_Abdul" height="30" width="40" /></a> -->
 <a href="https://linkedin.com/in/syed-abdullah-2b0b6b18b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-abdullah-2b0b6b18b" height="30" width="40" /></a>
 <a href="https://instagram.com/abdul_047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul_047" height="30" width="40" /></a>
 </p>
@@ -105,8 +105,8 @@ Here are some ideas to get you started:
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/zubairself"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zubairself" /></a></p><br><br> -->
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Abdul535&show_icons=true&locale=en&layout=compact" alt="Abdul535" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahmath-001&show_icons=true&locale=en&layout=compact" alt="Rahmath-001" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Abdul535&show_icons=true&locale=en" alt="Abdul535" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahmath-001&show_icons=true&locale=en" alt="Rahmath-001" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Abdul535&" alt="Abdul535" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahmath-001&" alt="Rahmath-001" /></p>

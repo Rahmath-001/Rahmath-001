@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  -->
 
 
-- 🌱 I’m currently learning **DOM, React, Nodejs**
+- 🌱 I’m currently learning **DOM, Nodejs**
 
 - 💬 Ask me about **UI/UX, Nodejs, JavaScript, HTML, CSS**
 
@@ -38,11 +38,11 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<!-- <a href="https://dev.to/Abdul535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Abdul535" height="30" width="40" /></a> -->
+<!-- <a href="https://dev.to/Rahmath-001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Rahmath-001" height="30" width="40" /></a> -->
   
 <!-- <a href="https://twitter.com/047_Abdul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="047_Abdul" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/syed-abdullah-2b0b6b18b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-abdullah-2b0b6b18b" height="30" width="40" /></a>
-<a href="https://instagram.com/abdul_047" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abdul_047" height="30" width="40" /></a>
+<!-- <a href="https://linkedin.com/in/syed-abdullah-2b0b6b18b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-abdullah-2b0b6b18b" height="30" width="40" /></a> -->
+<a href="https://instagram.com/Rahmath_097" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rahmath-001" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

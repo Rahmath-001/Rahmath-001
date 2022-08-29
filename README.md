@@ -28,9 +28,9 @@ Here are some ideas to get you started:
  -->
 
 
-- 🌱 I’m currently learning **React, Threejs**
+- 🌱 I’m currently learning **DOM, React, Nodejs**
 
-- 💬 Ask me about **React, UI/UX, Nodejs, Express, JavaScript, CSS**
+- 💬 Ask me about **UI/UX, Nodejs, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **rehamathullah7@gmail.com**
 

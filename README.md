@@ -38,9 +38,7 @@ Here are some ideas to get you started:
 <p align="left">
  
  
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahmath-001&label=Profile%20views&color=0e75b6&style=flat" alt="Rahmath--001" /> </p>
 
- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rahmath-001" alt="Rahmath-001" /></a> </p>
  
 <!-- <a href="https://dev.to/Rahmath-001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Rahmath-001" height="30" width="40" /></a> -->
   
@@ -48,6 +46,15 @@ Here are some ideas to get you started:
 <!-- <a href="https://linkedin.com/in/syed-abdullah-2b0b6b18b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-abdullah-2b0b6b18b" height="30" width="40" /></a> -->
 <a href="https://instagram.com/rahmath_970" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rahmath-001" height="30" width="40" /></a>
 </p>
+
+
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahmath-001&label=Profile%20views&color=0e75b6&style=flat" alt="Rahmath--001" /> </p>
+
+ <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rahmath-001" alt="Rahmath-001" /></a> </p>
+
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">

@@ -55,6 +55,9 @@ Here are some ideas to get you started:
  -->
 
 
+<a href="https://medium.com/Rahmathullah Qaaemuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Rahmath-001" height="30" width="40" /></a>
+
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -78,7 +81,7 @@ Here are some ideas to get you started:
 <!-- <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> -->
 
 
-https://medium.com/@Rahmathullah-Qaemuddin
+
 
   
 <!--   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> -->

@@ -54,6 +54,8 @@ Here are some ideas to get you started:
  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Rahmath-001" alt="Rahmath-001" /></a> </p>
  -->
 
+<h3 align="left">Checkout my BLOGS : </h3>
+<p align="left">
 
 <a href="https://medium.com/@Rahmathullah-Qaemuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Rahmath-001" height="30" width="40" /></a>
 

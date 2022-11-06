@@ -26,9 +26,9 @@ Here are some ideas to get you started:
  -->
 
 
-- 🌱 I’m currently learning **React, UI/UX**
+- 🌱 I’m currently learning **DOM, Nodejs**
 
-- 💬 Ask me about **UI/UX, Wireframing, React, Nodejs, Express, JavaScript, HTML, CSS**
+- 💬 Ask me about **UI/UX, Nodejs, JavaScript, HTML, CSS**
 
 - 📫 How to reach me **rehamathullah7@gmail.com**
 
@@ -126,7 +126,7 @@ Here are some ideas to get you started:
 <p><a href="https://www.buymeacoffee.com/zubairself"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zubairself" /></a></p><br><br> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahmath-001&show_icons=true&locale=en&layout=compact" alt="Rahmath-001" /></p>
-
+<br></br><br></br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahmath-001&show_icons=true&locale=en" alt="Rahmath-001" /></p>
-
+<br></br><br></br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahmath-001&" alt="Rahmath-001" /></p>

@@ -64,7 +64,7 @@ Here are some ideas to get you started:
    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="50" height="50" background-color="white"/> </a> 
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="50" height="50"/> </a>
- 
+ <br><br>
  
 
   
@@ -84,12 +84,9 @@ Here are some ideas to get you started:
 
 
 </p>
-
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/zubairself"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="zubairself" /></a></p><br><br> -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahmath-001&show_icons=true&locale=en&layout=compact" alt="Rahmath-001" /></p>
-
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Rahmath-001&show_icons=true&locale=en" alt="Rahmath-001" /></p>
-
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahmath-001&" alt="Rahmath-001" /></p>

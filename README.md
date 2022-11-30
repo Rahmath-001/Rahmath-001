@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Rahmathullah</h1>
 <h3 align="center">A full stack Developer from India, Hyderabad.</h3>
 
-
- <a  href="https://app.daily.dev/Rahmath-001"><img align="right" src="https://api.daily.dev/devcards/4fe4a49ee1e44833869dbd515c349bde.png?r=qr3" width=auto height="370" alt="Rahmath's Dev Card"/></a> 
+<!-- 
+ <a  href="https://app.daily.dev/Rahmath-001"><img align="right" src="https://api.daily.dev/devcards/4fe4a49ee1e44833869dbd515c349bde.png?r=qr3" width=auto height="370" alt="Rahmath's Dev Card"/></a>  -->
 
 
 
@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 
-    <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
+
  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> 

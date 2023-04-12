@@ -26,7 +26,7 @@ Here are some ideas to get you started:
  -->
 
 
-- 🌱 I’m currently learning **DOM, Nodejs**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **UI/UX, Nodejs, JavaScript, HTML, CSS**
 

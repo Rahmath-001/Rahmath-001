@@ -49,10 +49,6 @@ Here are some ideas to get you started:
 
 
 
-<h3 align="left">Checkout my BLOGS : </h3>
-<p align="left">
-
-<a href="https://medium.com/@Rahmathullah-Qaemuddin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Rahmath-001" height="30" width="40" /></a>
 
  
 <h3 align="left">Languages and Tools:</h3>

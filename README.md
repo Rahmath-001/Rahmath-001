@@ -21,11 +21,6 @@ Here are some ideas to get you started:
  <a  href="https://app.daily.dev/Rahmath-001"><img align="right" src="https://api.daily.dev/devcards/4fe4a49ee1e44833869dbd515c349bde.png?r=qr3" width=auto height="370" alt="Rahmath's Dev Card"/></a>  -->
 
 
-
-<!-- <p align="left"> <a href="https://twitter.com/047_Abdul" target="blank"><img src="https://img.shields.io/twitter/follow/047_Abdul?logo=twitter&style=for-the-badge" alt="047_Abdul" /></a> </p>
- -->
-
-
 - 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **UI/UX, Nodejs, JavaScript, HTML, CSS**
@@ -43,7 +38,7 @@ Here are some ideas to get you started:
 <!-- <a href="https://dev.to/Rahmath-001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Rahmath-001" height="30" width="40" /></a> -->
   
 <a href="https://twitter.com/Rahmathullah_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rahmathullah_01" height="30" width="40" /></a>
-<a href="https://linkedin.comin/rahmathullah-qaaemuddin-8a0016205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahmathullah_qaaemuddin" height="30" width="40" /></a>
+<a href="https://linkedin.comin/0x.rahmath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahmathullah_qaaemuddin" height="30" width="40" /></a>
 <a href="https://instagram.com/rahmath_970" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rahmath-001" height="30" width="40" /></a>
 </p>
 

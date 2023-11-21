@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 <!-- <a href="https://dev.to/Rahmath-001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Rahmath-001" height="30" width="40" /></a> -->
   
 <a href="https://twitter.com/Rahmathullah_01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Rahmathullah_01" height="30" width="40" /></a>
-<a href="https://linkedin.com/0x.rahmath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahmathullah_qaaemuddin" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/0xrahmath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahmathullah_qaaemuddin" height="30" width="40" /></a>
 <a href="https://instagram.com/rahmath_970" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Rahmath-001" height="30" width="40" /></a>
 </p>
 

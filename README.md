@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Full Stack Developer & Tech Enthusiast from Hyderabad, India</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=4A90E2&center=true&vCenter=true&width=550&lines=Crafting+User-Friendly+Experiences+with+Code;Passionate+about+Building+Dynamic+Web+Applications;Always+Learning+and+Evolving" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=4A90E2&center=true&vCenter=true&width=550&lines=Crafting+User-Friendly+Experiences;Passionate+about+Building+Dynamic+Web+Apps;Always+Learning+and+Evolving" alt="Typing SVG">
 </p>
 
 ---
@@ -46,13 +46,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rahmath-001&layout=compact&theme=radical" alt="Top Languages" width="50%"/>
 </p>
-
----
-
-### 🌟 Projects Showcase
-- 🛒 **[E-commerce Platform](https://github.com/Rahmath-001/E-commerce-Platform):** Built a robust online store with React and Node.js.
-- 📋 **[Task Manager](https://github.com/Rahmath-001/Task-Manager):** A MERN stack application for managing daily tasks efficiently.
-- 🌐 **[Portfolio Website](https://github.com/Rahmath-001/Portfolio-Website):** Showcasing my personal journey, skills, and projects.
 
 ---
 
